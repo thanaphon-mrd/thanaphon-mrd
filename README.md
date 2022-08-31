@@ -1,5 +1,1 @@
-### Hi there 👋
-
-<!--
-**thanaphon-mrd/thanaphon-mrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanaphon-mrd&show_icons=true&theme=tokyonight&title_color=71EAD2&icon_color=58C7F3&text_color=f1f1f1&locale=en&border_radius=20&bg_color=DEG,20134E,2D1B69)](https://github.com/thanaphon-mrd/thanaphon-mrd)
