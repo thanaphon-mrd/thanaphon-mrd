@@ -1,20 +1,19 @@
 
 
-### <div align="center"><h1 align="center">Hi 🤖, I'm thanaphon-mrd</h1></div>  
-<div align="center"><h3 align="center">A passionate back-end developer from Thailand</h3>
-</div>  
-<!-- <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>   -->
+
+ <div align="center">
+<img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmTRrlF27TkHFI5raPumKSNCZ5BZyOc6X9lJVlj0RU4WyCSpCM2BDHB0NJwWybGSoNTHEiU3mGw=w1920-h817" align="center" style="width: 100%" />
+</div>   
+
+
+<br/>  
+
 - 🌱 I’m currently learning **Autonomous System and Security Network.**  
 
-- 📫 How to reach me **thanaphon.mrd@gmail.com**  
-  
 <br/>  
+
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<table align="center"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -25,8 +24,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -39,8 +36,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -51,7 +46,6 @@
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -69,9 +63,7 @@
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center">
@@ -80,15 +72,8 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=thanaphon-mrd&theme=sea&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2D1B69&ring=71EAD2&fire=58C7F3" align="center" />
 
-  
 
 </div>  
-
-
-
-<br/>  
-
-
 
 <br/>  
 
@@ -96,7 +81,6 @@
 <img src="https://komarev.com/ghpvc/?username=thanaphon-mrd&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
 
 ----
