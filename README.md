@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm thanaphon-mrd</h1>
 <h3 align="center">A passionate back-end developer from Thailand</h3>
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanaphon-mrd&show_icons=true&theme=tokyonight&title_color=71EAD2&icon_color=58C7F3&text_color=f1f1f1&locale=en&border_radius=5&bg_color=DEG,20134E,2D1B69)](https://github.com/thanaphon-mrd/thanaphon-mrd)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thanaphon-mrd&theme=sea&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2D1B69&ring=71EAD2&fire=58C7F3)](https://git.io/streak-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanaphon-mrd&label=Profile%20views&color=0e75b6&style=flat" alt="thanaphon-mrd" /> </p>
 
 
@@ -9,11 +14,6 @@
 - 🌱 I’m currently learning **Autonomous System and Security Network.**
 
 - 📫 How to reach me **thanaphon.mrd@gmail.com**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanaphon-mrd&show_icons=true&theme=tokyonight&title_color=71EAD2&icon_color=58C7F3&text_color=f1f1f1&locale=en&border_radius=5&bg_color=DEG,20134E,2D1B69)](https://github.com/thanaphon-mrd/thanaphon-mrd)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thanaphon-mrd&theme=sea&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2D1B69&ring=71EAD2&fire=58C7F3)](https://git.io/streak-stats)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thanaphon_mrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thanaphon_mrd" height="30" width="40" /></a>
