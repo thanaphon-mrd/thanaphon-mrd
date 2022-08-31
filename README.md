@@ -1,8 +1,4 @@
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center"><h1 align="center">Hi 🤖, I'm thanaphon-mrd</h1></div>  
   
@@ -10,6 +6,11 @@
 <div align="center"><h3 align="center">A passionate back-end developer from Thailand</h3>
 </div>  
   
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
 
 - 🌱 I’m currently learning **Autonomous System and Security Network.**  
   
